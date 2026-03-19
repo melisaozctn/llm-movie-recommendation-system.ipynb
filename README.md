@@ -35,7 +35,7 @@ The system processes user watch history and movie metadata such as overview, gen
 
 ## Developer
 
-Developed as a course project.
+Developed by Melisa Ozcetin
 
 ## Notes
 
